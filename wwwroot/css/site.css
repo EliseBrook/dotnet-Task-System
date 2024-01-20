@@ -1,0 +1,43 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.background {
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+}
+    .background::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 110%;
+        z-index: -1;
+        background-image: url("https://img.freepik.com/free-photo/pastel-pink-oil-paint-textured-background_53876-108408.jpg?w=826&t=st=1705605245~exp=1705605845~hmac=98ed7ac9e25e6909a62e5bb05795c93ba3046fca3dfc4954938030d8c2784f2f");
+        opacity: 1;
+    }
+
+.buttons-column {
+    text-align: end;
+}
+
+.todos-column {
+    vertical-align: middle;
+}

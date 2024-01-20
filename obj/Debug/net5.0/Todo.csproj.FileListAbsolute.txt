@@ -1,0 +1,8 @@
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.csproj.AssemblyReference.cache
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.AssemblyInfoInputs.cache
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.AssemblyInfo.cs
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.RazorAssemblyInfo.cache
+C:\Users\Elise\dotnet\Todo\obj\Debug\net5.0\Todo.RazorAssemblyInfo.cs
